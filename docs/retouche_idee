@@ -1,0 +1,13 @@
+pour l'outil :
+gestion des comptes : 
+- historique des imports et des fichiers et modification et l'historique des discussions et prompts 
+- gestion d'access : pour un travil on limite l'access/modification selon les niveau / organisation du workflow
+- des differents interfaces et utilités / use cases selon le profile 
+
+use cases : 
+- nettoyage auto des données
+- generation des graphs et analyses (orienté metier)
+- generation des documents rapports / factures / analyses selon une format bien defini (customized)
+- interaction actif avec les données par une requete du langage naturel 
+- traitement avancé / requete special expert (Intégration de commandes Python/R pour les data scientists) / des prévisions / simulations statistiques
+
